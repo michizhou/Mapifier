@@ -3,6 +3,7 @@ package bitcamp.sanjitsingh.displaymap;
 /**
  * Created by sanjit singh and Micheal Zhou on 4/7/18.
  */
+
 import android.app.Activity;
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;

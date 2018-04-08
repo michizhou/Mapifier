@@ -2,4 +2,10 @@
     <string name="app_name">Display map</string>
     <string name="facebook_app_id">532242587153678</string>
     <string name="fb_login_protocol_scheme">fb532242587153678</string>
+    <string name="elevation_image_service">
+        http://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer</string>
+    <string name="subscribe_holidays">holidays</string>
+    <string name="subscribe_quotes">quotes</string>
+    <string name="subscribe_events">events</string>
+    <string name="btn_subscribe">Update Subscriptions</string>
 </resources>

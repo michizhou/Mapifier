@@ -1,4 +1,4 @@
-package com.mongodb.example.pushnotification;
+package bitcamp.sanjitsingh.displaymap;
 
 import android.app.Notification;
 import android.app.NotificationManager;

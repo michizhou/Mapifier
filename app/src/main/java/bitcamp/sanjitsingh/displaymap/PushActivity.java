@@ -1,11 +1,11 @@
-package com.mongodb.example.pushnotification;
+package bitcamp.sanjitsingh.displaymap;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.content.Context;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.CheckBox;
@@ -16,12 +16,11 @@ import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.mongodb.stitch.android.StitchClient;
-
 import com.mongodb.stitch.android.auth.anonymous.AnonymousAuthProvider;
 import com.mongodb.stitch.android.push.AvailablePushProviders;
 import com.mongodb.stitch.android.push.gcm.GCMPushClient;
 
-public class MainActivity extends AppCompatActivity {
+public class PushActivity extends AppCompatActivity {
 
     public static final String TOPIC_HOLIDAYS = "holidays";
     public static final String TOPIC_QUOTES = "quotes";
