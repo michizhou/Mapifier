@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Display map</string>
+    <string name="facebook_app_id">532242587153678</string>
+    <string name="fb_login_protocol_scheme">fb532242587153678</string>
+</resources>

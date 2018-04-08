@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "412931132856",
+    "firebase_url": "https://backpackbuddies-200419.firebaseio.com",
+    "project_id": "backpackbuddies-200419",
+    "storage_bucket": "backpackbuddies-200419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412931132856:android:75170e1f8ccc0555",
+        "android_client_info": {
+          "package_name": "bitcamp.sanjitsingh.displaymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412931132856-g6ulr6udv7tjl9no08h4cb7430jp9p9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNoA3vYG_iHBTjC95Xhnu-iWg6AkXX-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
